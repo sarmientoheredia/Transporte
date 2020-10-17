@@ -1,0 +1,16 @@
+com\transporte\entidades\Trayecto.class
+com\transporte\sessionBeans\TrenFacade.class
+com\transporte\sessionBeans\EstacionFacade.class
+com\transporte\sessionBeans\AbstractFacade.class
+com\transporte\sessionBeans\ViajeFacade.class
+com\transporte\entidades\Viaje.class
+com\transporte\entidades\Tren.class
+com\transporte\sessionBeans\TrenFacadeLocal.class
+com\transporte\entidades\Pasajero.class
+com\transporte\sessionBeans\TrayectoFacade.class
+com\transporte\entidades\Estacion.class
+com\transporte\sessionBeans\EstacionFacadeLocal.class
+com\transporte\sessionBeans\PasajeroFacadeLocal.class
+com\transporte\sessionBeans\TrayectoFacadeLocal.class
+com\transporte\sessionBeans\ViajeFacadeLocal.class
+com\transporte\sessionBeans\PasajeroFacade.class
